@@ -77,7 +77,7 @@ button.cancel {
 }
 
 .icon {
-  /* this keeps the icon from getting smashed by the text */
+  /* this keeps the icon from get   ting smashed by the text */
   flex-shrink: 0;
 }
 /* header container should be wrapped around the button element as well in order for flex style to work */
